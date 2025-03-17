@@ -40,3 +40,8 @@ out/
 /.gradle
 /out
 *.log
+/build/
+gradle/wrapper/gradle-wrapper.jar
+.DS_Store
+.idea/
+.vscode/
